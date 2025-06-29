@@ -1,3 +1,11 @@
+<!-- Faixa decorativa marrom -->
+<p align="center">
+  <svg width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">
+    <path d="M0,0 C40,100 60,0 100,100 L100,0 L0,0 Z" fill="#5e3b1c" />
+    <path d="M0,0 C30,90 70,0 100,90 L100,0 L0,0 Z" fill="#8b5e3c" opacity="0.8"/>
+  </svg>
+</p>
+
 <h1 align="center">GabrielsinhoME</h1>
 <p align="center">Desenvolvedor Full Stack Pleno • Fundador da GB Network</p>
 
